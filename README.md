@@ -20,10 +20,6 @@
   <br>
   <br>
   
-  <img src="http://mazandi.herokuapp.com/api?handle=fls8379&theme=warm"/>
-  <br>
-  <br>
-  
 
   </div>
 
